@@ -1,0 +1,10 @@
+numpy
+pandas
+scipy
+nibabel
+tqdm
+statsmodels
+scikit-learn
+lightgbm
+neuromaps
+pyls
